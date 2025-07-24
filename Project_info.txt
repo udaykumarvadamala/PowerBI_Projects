@@ -1,0 +1,73 @@
+Steps in project:
+
+Requirement Gathering/ Business Requirements
+
+Data walkethrough
+
+Data Connection 
+
+Data Cleaning 
+
+Data Modeling
+
+Data Proccesing
+
+DAX Calculations
+
+Dashbord Lay Out
+
+Charts Development and Formatting
+
+Dashboard / Report Development
+
+Insights Generation
+
+
+Requirements:
+
+To conduct a comprehensive analysis of Blinkit's sales performence, Customer satisfaction, and inventory distribution to identify key insights and oppertunities for optimization using various KPIs and visualization in Power BI.
+
+KPI's Requirements:
+
+1. Total Sales: Theoverall revenue generated from all items sold.
+2. Average Sales: The average revenue per sale.
+3. Number of Items: The total count of different items sold.
+4. Average Rating: The average customer rating for the items sold.
+
+Char's Requirements:
+
+1.Total sales by fat content:
+	Objective: Analyze impact of fat content on total sales.
+	Additional KPL Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+	Chat Type: Donut Chart.
+
+2.Total content by outlet for total sales
+	Objective: Identify the performence of different item types of total sales.
+	Additional KPL Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+	Chat Type: Bar Char
+
+3.Fat content by outlet for total sales sales across different outlet segme:
+	Objective: Compare total sales across different outlet segment by fat content.
+	Additional KPL Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+	Chat Type: stacked columan chart.
+
+4.Total sales by outlet establishment:
+	Objective: Evalate how the age or type of outlet establisment influences total sales.
+	Chat Type: Line Chart
+
+5.Sales by outlet size:
+	Objective: Analyze the correlation between outlet size and total sales.
+	Chart Type: Donut/ pie chart
+
+6. sales by outlet Location:
+	Objective: Assess the gregraphic distribution of sales across different locations.
+	Chart Types: Funnel Map.
+
+7.All metrics by outlet type:
+	Objective: Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of Items, Average Rating)
+	broken down by different outlet types.
+	Chart Types: Matrix Card.
+
+
+
+
